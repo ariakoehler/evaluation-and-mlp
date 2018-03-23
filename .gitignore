@@ -1,3 +1,5 @@
 *~
 *.pdf
 *.csv
+*.sbatch
+*.out
